@@ -6,7 +6,7 @@ Building a multilingual chat bot using Cohere, LangChain, and Databutton
 
 Demo App - [here](https://databutton.com/v/by7clad5/Home)
 
-Video - *will be out soon*
+Video - [here](https://youtu.be/mL-PLwNuB-k)
 
 Blog - [here](https://medium.com/@avra42/multilingual-chat-bot-for-personal-documents-using-coheres-multilingual-models-langchain-2b4e1c8cdab)
 
